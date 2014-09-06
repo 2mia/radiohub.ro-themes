@@ -1,0 +1,21 @@
+.app-content {
+  background: url("bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.rhInfo {
+    background: rgba(120, 20, 20, .6);
+}
+
+#playlist-container {
+    float: right !important;
+    margin-top: 10px;
+}
+.slider-selection {
+    background: #FF9409;
+}
+
+.navbar-default {
+    background-color: rgba(35, 44, 56, 0.84);;
+}
+
